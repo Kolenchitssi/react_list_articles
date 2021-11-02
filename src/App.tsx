@@ -8,7 +8,7 @@ const App: FC = () => {
 
   return (
     <div className="App">
-      <Button> Кнопка</Button>
+      <Button> Пустой проект</Button>
     </div>
   );
 };
